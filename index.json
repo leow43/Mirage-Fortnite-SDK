@@ -1,0 +1,4 @@
+{
+  "version": "beta",
+  "files": ["SDK.hpp", "Engine_classes.hpp"]
+}
