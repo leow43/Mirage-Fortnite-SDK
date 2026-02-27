@@ -1,4 +1,11 @@
 {
   "version": "beta",
-  "files": ["SDK.hpp", "Engine_classes.hpp"]
+  "files": [
+    "SDK-Classes.h",
+    "Structs.h",
+    "Enums.h",
+    "ClassOffsets.h",
+    "Blueprints-Header.h",
+    "SDK-Header.h"
+  ]
 }
